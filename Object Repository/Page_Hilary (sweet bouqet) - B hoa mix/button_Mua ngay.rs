@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>fd7a0fb3-c73c-4493-87c2-87a4ea0b9363</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1ujsas3</value>
+      <webElementGuid>38041e66-15d5-48fb-be71-e2a738c81cfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
+      <webElementGuid>fdde80ee-13e0-4eae-8fab-b3717ea265cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>5a19e589-fc3b-4c35-a26f-27572106038d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mua ngay</value>
+      <webElementGuid>9dfb86fc-39f9-4251-a44e-f03cfb7d87ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;order&quot;)/div[@class=&quot;product-description&quot;]/div[@class=&quot;product-btn&quot;]/button[@class=&quot;MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1ujsas3&quot;]</value>
+      <webElementGuid>2d5ce272-de71-49f1-b13c-0cb7d3644e58</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>3d863caa-3c89-4f39-b29a-f16635d22aba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='order']/div/div[8]/button[2]</value>
+      <webElementGuid>595693c9-848f-4934-a46b-c1f8feca69f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm vào giỏ hàng'])[1]/following::button[1]</value>
+      <webElementGuid>cef9844c-d542-4b7d-bcc3-709e8ae4ceb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin chi tiết:'])[1]/preceding::button[1]</value>
+      <webElementGuid>e03bcfa9-78db-4e6a-b19b-54216fe097e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên sản phẩm: Hilary (sweet bouqet) - Bó hoa mix'])[1]/preceding::button[1]</value>
+      <webElementGuid>54646396-bcc4-4450-9a5d-969326b8a5bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mua ngay']/parent::*</value>
+      <webElementGuid>871bf347-a418-4558-89a3-44d18b3f2140</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,5 +118,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/button[2]</value>
+      <webElementGuid>22150ca1-cba5-4423-b6fb-8a1b1b0df8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Mua ngay' or . = 'Mua ngay')]</value>
+      <webElementGuid>359e0374-587c-4695-a5b5-f444754cc1e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

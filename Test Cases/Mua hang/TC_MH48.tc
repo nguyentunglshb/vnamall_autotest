@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra khi bỏ trống thông tin email</description>
+   <name>TC_MH48</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ff64f23-0c07-435e-a318-6426c21bef84</testCaseGuid>
+</TestCaseEntity>

@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>3052e02f-17f3-4375-b8d6-b4dd526361f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>my-cta-btn</value>
+      <webElementGuid>8da7c532-3e51-4e10-98a2-077021f05060</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiến hành đến phương thức thanh toán</value>
+      <webElementGuid>4921d63d-17cb-4aad-a6f7-880d73698f92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]/div[@class=&quot;payment-btn-pay row&quot;]/div[@class=&quot;col-xl-9 col-lg-8 text-end&quot;]/button[@class=&quot;my-cta-btn&quot;]</value>
+      <webElementGuid>cb3a8c34-d4b4-4858-a22a-0eca0d4c2e73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[3]/div[2]/button</value>
+      <webElementGuid>d995a51e-386b-4299-9f0d-23f0a09163e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[1]/following::button[1]</value>
+      <webElementGuid>8638e8ca-d19d-4a42-8770-a4c0983bde8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ cụ thể'])[1]/following::button[1]</value>
+      <webElementGuid>56c413c8-c456-4639-b5f7-7b6a57110783</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Almira - Bó baby trắng size trung'])[2]/preceding::button[1]</value>
+      <webElementGuid>371c75e8-1790-450e-ac04-5848aa90f537</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tiến hành đến phương thức thanh toán']/parent::*</value>
+      <webElementGuid>85461299-c1f3-4d31-8d65-d971ef9a77d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
+      <webElementGuid>22881674-4117-4eb3-bea5-2adab1762be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tiến hành đến phương thức thanh toán' or . = 'Tiến hành đến phương thức thanh toán')]</value>
+      <webElementGuid>e3a191f4-180d-499b-bb69-1c3e9c1a7db7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

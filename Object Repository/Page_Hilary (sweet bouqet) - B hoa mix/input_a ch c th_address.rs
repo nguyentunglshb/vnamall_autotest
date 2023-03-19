@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>8159c894-390c-4ea2-9c26-1b95ec0b7633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>address</value>
+      <webElementGuid>383e3d59-488c-4e9b-8c1e-2c888704eaad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>03dd6825-b9bc-42f8-8b87-b05a9943c7a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>payment-input</value>
+      <webElementGuid>cbcb154b-74ca-4bf1-afef-866db5649787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]/div[@class=&quot;payment-form&quot;]/input[@class=&quot;payment-input&quot;]</value>
+      <webElementGuid>657b502a-b4d6-4a66-9e11-316970cbfef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>k</value>
+      <webElementGuid>cba9387e-82dd-4451-be66-d74c699807cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='address']</value>
+      <webElementGuid>a76875db-ef56-4a5d-a8f8-e73a63aea22a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[2]/input[3]</value>
+      <webElementGuid>785af49e-e563-43e7-b412-9268ee026235</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,5 +86,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
+      <webElementGuid>6444cdbb-bb94-4bcc-ae58-eb11be9d1dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'address' and @type = 'text']</value>
+      <webElementGuid>c05808fa-0692-420d-bd52-cc3420154c54</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

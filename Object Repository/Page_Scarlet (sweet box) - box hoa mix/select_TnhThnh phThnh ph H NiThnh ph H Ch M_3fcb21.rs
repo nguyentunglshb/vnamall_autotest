@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_TnhThnh phThnh ph H NiThnh ph H Ch M_3fcb21</name>
+   <tag></tag>
+   <elementGuidId>3f2d56f7-c3c7-4452-b17c-78ded9af5c9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[2]/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>db9fecf7-8163-44cd-a585-37097b41f6f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng Tháp</value>
+      <webElementGuid>e7203367-4930-491d-ad9b-551f4ec3ee5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]/div[@class=&quot;payment-form&quot;]/div[@class=&quot;payment-address-main&quot;]/div[@class=&quot;address-edit-select-container&quot;]/select[1]</value>
+      <webElementGuid>38847bf2-5f6f-4469-83da-0f5b55e7ba14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>87aa7cc2-a897-4b54-9e31-28563892fba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ cụ thể'])[1]/following::select[1]</value>
+      <webElementGuid>aedc2742-af06-4bb1-bc1b-becafdc953d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[1]/following::select[1]</value>
+      <webElementGuid>7c13955a-9466-4828-aa52-f32e48a77886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[1]/preceding::select[3]</value>
+      <webElementGuid>d805f136-d848-4498-b427-e804fa96b8c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành đến phương thức thanh toán'])[1]/preceding::select[3]</value>
+      <webElementGuid>9dd46279-38db-4001-9590-2e33ae578a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4084a106-3894-467a-9480-98d89203c160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Tỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng Tháp' or . = 'Tỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng Tháp')]</value>
+      <webElementGuid>9c4a0a78-6496-418e-adb6-b54290dd44e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

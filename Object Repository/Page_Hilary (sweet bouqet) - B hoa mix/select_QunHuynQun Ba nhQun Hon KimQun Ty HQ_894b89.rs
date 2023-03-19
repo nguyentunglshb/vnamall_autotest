@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>select:nth-of-type(2)</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
+      <webElementGuid>469bfcae-c613-426b-80a5-98e18700017d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Quận/HuyệnQuận Ba ĐìnhQuận Hoàn KiếmQuận Tây HồQuận Long BiênQuận Cầu GiấyQuận Đống ĐaQuận Hai Bà TrưngQuận Hoàng MaiQuận Thanh XuânQuận Nam Từ LiêmQuận Bắc Từ LiêmQuận Hà ĐôngThị xã Sơn TâyHuyện Sóc SơnHuyện Đông AnhHuyện Gia LâmHuyện Thanh TrìHuyện Mê LinhHuyện Ba VìHuyện Phúc ThọHuyện Đan PhượngHuyện Hoài ĐứcHuyện Quốc OaiHuyện Thạch ThấtHuyện Chương MỹHuyện Thanh OaiHuyện Thường TínHuyện Phú XuyênHuyện Ứng HòaHuyện Mỹ Đức</value>
+      <webElementGuid>8c88d5b2-c8aa-48e5-878f-a258f858b792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]/div[@class=&quot;payment-form&quot;]/div[@class=&quot;payment-address-main&quot;]/div[@class=&quot;address-edit-select-container&quot;]/select[2]</value>
+      <webElementGuid>e2a6bb2e-07dd-4edf-ae4e-eb409e75e78c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[2]/div[2]/div/select[2]</value>
+      <webElementGuid>8d8bb14e-8a31-447d-ac2d-fe1965d8e394</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ cụ thể'])[1]/following::select[2]</value>
+      <webElementGuid>1e7a7250-7aac-44e1-9395-465baacb60e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[1]/following::select[2]</value>
+      <webElementGuid>2a2cd246-171d-4462-9016-0375c6708c4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[1]/preceding::select[2]</value>
+      <webElementGuid>5cbe19ec-d47b-4a30-8edf-179819b15151</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành đến phương thức thanh toán'])[1]/preceding::select[2]</value>
+      <webElementGuid>d3ce4521-6e34-4899-a0ab-3eda724fc0a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +86,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select[2]</value>
+      <webElementGuid>ab5fdf90-cbac-47b2-bc45-e25f417c982b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Quận/HuyệnQuận Ba ĐìnhQuận Hoàn KiếmQuận Tây HồQuận Long BiênQuận Cầu GiấyQuận Đống ĐaQuận Hai Bà TrưngQuận Hoàng MaiQuận Thanh XuânQuận Nam Từ LiêmQuận Bắc Từ LiêmQuận Hà ĐôngThị xã Sơn TâyHuyện Sóc SơnHuyện Đông AnhHuyện Gia LâmHuyện Thanh TrìHuyện Mê LinhHuyện Ba VìHuyện Phúc ThọHuyện Đan PhượngHuyện Hoài ĐứcHuyện Quốc OaiHuyện Thạch ThấtHuyện Chương MỹHuyện Thanh OaiHuyện Thường TínHuyện Phú XuyênHuyện Ứng HòaHuyện Mỹ Đức' or . = 'Quận/HuyệnQuận Ba ĐìnhQuận Hoàn KiếmQuận Tây HồQuận Long BiênQuận Cầu GiấyQuận Đống ĐaQuận Hai Bà TrưngQuận Hoàng MaiQuận Thanh XuânQuận Nam Từ LiêmQuận Bắc Từ LiêmQuận Hà ĐôngThị xã Sơn TâyHuyện Sóc SơnHuyện Đông AnhHuyện Gia LâmHuyện Thanh TrìHuyện Mê LinhHuyện Ba VìHuyện Phúc ThọHuyện Đan PhượngHuyện Hoài ĐứcHuyện Quốc OaiHuyện Thạch ThấtHuyện Chương MỹHuyện Thanh OaiHuyện Thường TínHuyện Phú XuyênHuyện Ứng HòaHuyện Mỹ Đức')]</value>
+      <webElementGuid>24169dc4-e084-4fb8-9128-56fbf09c9c59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

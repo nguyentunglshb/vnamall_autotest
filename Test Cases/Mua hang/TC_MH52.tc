@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra khi nhập space đầu cuối  vào thông tin email</description>
+   <name>TC_MH52</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7192567e-2a36-49b4-a7c1-61ae83fdcec5</testCaseGuid>
+</TestCaseEntity>

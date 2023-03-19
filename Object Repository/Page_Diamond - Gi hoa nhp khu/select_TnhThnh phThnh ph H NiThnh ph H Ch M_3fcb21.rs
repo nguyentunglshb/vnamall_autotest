@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
+      <webElementGuid>76525c76-f18b-4c57-96bb-a74eaa7487c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng Tháp</value>
+      <webElementGuid>82679d00-9d6d-44df-bb71-9ff8e28b2984</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]/div[@class=&quot;payment-form&quot;]/div[@class=&quot;payment-address-main&quot;]/div[@class=&quot;address-edit-select-container&quot;]/select[1]</value>
+      <webElementGuid>be2efe83-e642-45f4-9614-af4949a5000a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>e1a47ba5-b5d5-4f24-beec-6b8bb90931bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ cụ thể'])[1]/following::select[1]</value>
+      <webElementGuid>b394c004-3ce9-4020-9aa3-cee9b47cda05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[1]/following::select[1]</value>
+      <webElementGuid>22aaa159-71c1-41f0-8362-b82bcf0b9f30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[1]/preceding::select[3]</value>
+      <webElementGuid>6ba6ff10-b75d-47bd-98ef-99ecaff5aef7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành đến phương thức thanh toán'])[1]/preceding::select[3]</value>
+      <webElementGuid>84955a3c-e56d-454f-94f1-7268867f2f53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +86,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
+      <webElementGuid>1cb5fb1e-c8ab-4d95-94f6-b35fb6a6df39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Tỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng Tháp' or . = 'Tỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng Tháp')]</value>
+      <webElementGuid>a493dfb6-8ba9-493a-a304-ec5df62b3275</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

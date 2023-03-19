@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>4417b529-786a-4e80-95a1-c47fadcf6b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card__list-address</value>
+      <webElementGuid>bb391319-cca0-40a0-b235-1a547f8dd62f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hà Nội</value>
+      <webElementGuid>f105aadd-60fe-4bd1-9cb2-cf9d2b97b36b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;homepage&quot;]/div[@class=&quot;homepage-list&quot;]/div[1]/div[@class=&quot;homepage-item&quot;]/div[@class=&quot;card-group&quot;]/div[@class=&quot;card-list&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[1]/div[1]/div[@class=&quot;card&quot;]/a[1]/div[@class=&quot;card__list-address&quot;]</value>
+      <webElementGuid>19668362-b700-4cd3-9a12-7cb82d951ef5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/div/div[3]/div/div/div/a/div</value>
+      <webElementGuid>a38bbcb5-14ad-40ad-8e1a-e2191d759945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[30]</value>
+      <webElementGuid>9214f3ae-e781-4a19-be2f-8dbca6ea2c4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::div[31]</value>
+      <webElementGuid>c89d3717-ece9-46bd-9fc6-bbc7955dd829</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem Thêm'])[1]/preceding::div[55]</value>
+      <webElementGuid>053b166e-2d7e-46f1-bcfb-bbce4001b6db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem Thêm'])[2]/preceding::div[131]</value>
+      <webElementGuid>49723750-992d-45b5-a5e0-a5e5d9e946c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/a/div</value>
+      <webElementGuid>29ca7b4f-157c-4ae7-a45a-363f890dac81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hà Nội' or . = 'Hà Nội')]</value>
+      <webElementGuid>9caf2cd5-d781-4704-b4fe-6463a632891f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/a/div</value>
+      <webElementGuid>8a405940-0947-4edb-b00f-f8d438d7ff48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[22]</value>
+      <webElementGuid>f7c3bf2e-f559-4beb-b5ff-e35ff84160b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::div[23]</value>
+      <webElementGuid>ab5d796e-8373-4627-a945-5b4c18850476</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem Thêm'])[1]/preceding::div[63]</value>
+      <webElementGuid>45c523b0-9a1d-4daf-8c1d-710de2f57d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem Thêm'])[2]/preceding::div[139]</value>
+      <webElementGuid>64a18421-44db-4c97-b7b6-6b0357b4d00c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,5 +150,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/a/div</value>
+      <webElementGuid>e955f5c5-3c65-4f0f-a338-a0e2d8fef9cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

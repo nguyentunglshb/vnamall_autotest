@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị thông tin&quot;Số điện thoại&quot; khi nhập ký tự không phải số</description>
+   <name>TC_MH36</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c162acc8-4591-49dd-99a8-9ba3d8c45286</testCaseGuid>
+</TestCaseEntity>

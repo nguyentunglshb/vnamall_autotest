@@ -6,12 +6,12 @@
    <elementGuidId>2b04ea2a-c542-40cf-a7ae-a991cf60e341</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[3]/div[2]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.my-cta-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[3]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>5419cdfb-4bd9-4fad-ac9f-f3dcaa8b6a59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>my-cta-btn</value>
+      <webElementGuid>f0198d03-a5dc-4e1c-90a6-4c440e3a63d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiến hành đến phương thức thanh toán</value>
+      <webElementGuid>a3d4eed9-b075-4477-a78d-c03f0fb50933</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]/div[@class=&quot;payment-btn-pay row&quot;]/div[@class=&quot;col-xl-9 col-lg-8 text-end&quot;]/button[@class=&quot;my-cta-btn&quot;]</value>
+      <webElementGuid>68f22a15-73ce-44d4-80d6-853aed2c6a5c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[3]/div[2]/button</value>
+      <webElementGuid>2b04d558-facc-4e1d-844d-a080617fdb69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[1]/following::button[1]</value>
+      <webElementGuid>dc52339f-412c-4296-801f-ab91d33b992a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ cụ thể'])[1]/following::button[1]</value>
+      <webElementGuid>e9d82e3b-da26-44f6-bb42-82adb213d1f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Scarlet (sweet box) - box hoa mix'])[2]/preceding::button[1]</value>
+      <webElementGuid>6cc3765d-5465-4d46-bd28-b1f4edb5bc88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tiến hành đến phương thức thanh toán']/parent::*</value>
+      <webElementGuid>94e291fb-3c36-4df3-9ed7-c4bb403633fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
+      <webElementGuid>2bf421f5-1aae-4296-b6a3-379efa09a426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tiến hành đến phương thức thanh toán' or . = 'Tiến hành đến phương thức thanh toán')]</value>
+      <webElementGuid>4197b091-9aad-4042-a6c5-eaaa606787f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PhngXPhng Phc TnPhng Phan Chu TrinhP_ceaabf</name>
+   <tag></tag>
+   <elementGuidId>14074bfa-40ec-4029-9e75-8fb0fee9dca2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f2340244-ffad-418b-b7c7-775d1dcadaf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phường/XãPhường Phúc TânPhường Phan Chu TrinhPhường Trần Hưng ĐạoPhường Tràng TiềnPhường Hàng BôngPhường Cửa NamPhường Hàng TrốngPhường Chương Dương ĐộPhường Hàng GaiPhường Hàng BạcPhường Lý Thái TổPhường Cửa ĐôngPhường Hàng BồPhường Hàng ĐàoPhường Hàng BuồmPhường Hàng MãPhường Đồng XuânPhường Hàng Bài</value>
+      <webElementGuid>054ec8cc-190b-4119-814a-520c6e49e076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]/div[@class=&quot;payment-form&quot;]/div[@class=&quot;payment-address-main&quot;]/div[@class=&quot;address-edit-select-container&quot;]/select[3]</value>
+      <webElementGuid>a9a085f0-6226-4cf3-b668-ecff8f2ddd0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='']</value>
+      <webElementGuid>df30dc89-2a36-4953-a483-f56efc48f91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div/div[2]/div[2]/div/select[3]</value>
+      <webElementGuid>2844feed-6edb-405a-8d33-7b251e838ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ cụ thể'])[1]/following::select[3]</value>
+      <webElementGuid>fe20e6f3-d779-4c56-bb8d-0cde1e52c47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[1]/following::select[3]</value>
+      <webElementGuid>68120508-8d6c-449b-87c6-ddd34ff6d003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[1]/preceding::select[1]</value>
+      <webElementGuid>2e64f84d-822b-45ac-a225-914d51709547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành đến phương thức thanh toán'])[1]/preceding::select[1]</value>
+      <webElementGuid>9925b99d-dddf-4627-a2ef-7c268174acea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>d7937019-0114-43c6-882f-cc459db3fa26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Phường/XãPhường Phúc TânPhường Phan Chu TrinhPhường Trần Hưng ĐạoPhường Tràng TiềnPhường Hàng BôngPhường Cửa NamPhường Hàng TrốngPhường Chương Dương ĐộPhường Hàng GaiPhường Hàng BạcPhường Lý Thái TổPhường Cửa ĐôngPhường Hàng BồPhường Hàng ĐàoPhường Hàng BuồmPhường Hàng MãPhường Đồng XuânPhường Hàng Bài' or . = 'Phường/XãPhường Phúc TânPhường Phan Chu TrinhPhường Trần Hưng ĐạoPhường Tràng TiềnPhường Hàng BôngPhường Cửa NamPhường Hàng TrốngPhường Chương Dương ĐộPhường Hàng GaiPhường Hàng BạcPhường Lý Thái TổPhường Cửa ĐôngPhường Hàng BồPhường Hàng ĐàoPhường Hàng BuồmPhường Hàng MãPhường Đồng XuânPhường Hàng Bài')]</value>
+      <webElementGuid>ec87d031-16be-4cfe-a885-815ed7ef5f53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
