@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị khi nhập thông tin &quot;Họ&quot; là ký tự unicode</description>
+   <name>TC_MH05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3c22f37-bb31-4877-96f0-eb833277c74b</testCaseGuid>
+</TestCaseEntity>

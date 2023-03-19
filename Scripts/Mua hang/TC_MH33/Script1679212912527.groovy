@@ -21,23 +21,32 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://vnamall.vietnamairlines.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_VNAMall - Trang ch/div_H NiSCARLET (SWEET BOX) - BOX HOA MIX2._415b20'))
-
 WebUI.click(findTestObject('Object Repository/Page_VNAMall - Trang ch/img_Next_card-img-top'))
 
-WebUI.click(findTestObject('Object Repository/Page_Scarlet (sweet box) - box hoa mix/button_'))
+WebUI.click(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/button_Mua ngay'))
 
-WebUI.click(findTestObject('Object Repository/Page_Scarlet (sweet box) - box hoa mix/button_Mua ngay'))
+WebUI.click(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/button_TIN HNH THANH TON'))
 
-WebUI.click(findTestObject('Object Repository/Page_Scarlet (sweet box) - box hoa mix/button_TIN HNH THANH TON'))
+WebUI.setText(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/input_H_firstName'), 'tung')
 
-WebUI.click(findTestObject('Object Repository/Page_Scarlet (sweet box) - box hoa mix/button_Tin hnh n phng thc thanh ton'))
+WebUI.setText(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/input_Tn_lastName'), 'nguyen')
 
-WebUI.click(findTestObject('Object Repository/Page_Scarlet (sweet box) - box hoa mix/div_TIP TC'))
+WebUI.setText(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/input_Email_email'), 'n@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_Scarlet (sweet box) - box hoa mix/div_TIP TC'))
+WebUI.setText(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/input_S in thoi_phone'), ' 0988887766 ')
 
-WebUI.click(findTestObject('Object Repository/Page_Scarlet (sweet box) - box hoa mix/img'))
+WebUI.setText(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/input_a ch c th_address'), 'q')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/select_TnhThnh phThnh ph H NiThnh ph H Ch M_3fcb21'), 
+    '1', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/select_QunHuynQun Ba nhQun Hon KimQun Ty HQ_894b89'), 
+    '1269', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/select_PhngXPhng L LiPhng Ph ThnhPhng Ng Qu_2add82'), 
+    '126909607', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Diamond - Gi hoa nhp khu/button_Tin hnh n phng thc thanh ton'))
 
 WebUI.closeBrowser()
 

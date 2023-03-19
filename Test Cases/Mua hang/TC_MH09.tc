@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra khi bỏ trống thông tin &quot;Họ&quot;</description>
+   <name>TC_MH09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb0fe71d-86a4-4afa-aedc-2b49b297917b</testCaseGuid>
+</TestCaseEntity>

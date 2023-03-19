@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thng tin giao hngVui lng in y  thng tin_405175</name>
+   <tag></tag>
+   <elementGuidId>622222c6-d6c8-4cfb-9132-66e67bc0ad89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.payment-info.col-sm-12.col-12.col-lg-5.col-xl-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-info col-sm-12 col-12 col-lg-5 col-xl-5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông tin giao hàngVui lòng điền đầy đủ thông tinHoặc đăng nhậpHọTênEmailSố điện thoạiĐịa chỉ cụ thểTỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng ThápQuận/HuyệnQuận Ba ĐìnhQuận Hoàn KiếmQuận Tây HồQuận Long BiênQuận Cầu GiấyQuận Đống ĐaQuận Hai Bà TrưngQuận Hoàng MaiQuận Thanh XuânQuận Nam Từ LiêmQuận Bắc Từ LiêmQuận Hà ĐôngThị xã Sơn TâyHuyện Sóc SơnHuyện Đông AnhHuyện Gia LâmHuyện Thanh TrìHuyện Mê LinhHuyện Ba VìHuyện Phúc ThọHuyện Đan PhượngHuyện Hoài ĐứcHuyện Quốc OaiHuyện Thạch ThấtHuyện Chương MỹHuyện Thanh OaiHuyện Thường TínHuyện Phú XuyênHuyện Ứng HòaHuyện Mỹ ĐứcPhường/XãGiỏ hàngTiến hành đến phương thức thanh toán</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]/div[@class=&quot;payment-info col-sm-12 col-12 col-lg-5 col-xl-5&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

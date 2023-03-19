@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị khi nhập thông tin &quot;Họ&quot; là chuỗi ký tự có ký tự trắng đầu cuối</description>
+   <name>TC_MH08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f2fc9e6-616d-4f5c-9a20-4038c5156a06</testCaseGuid>
+</TestCaseEntity>

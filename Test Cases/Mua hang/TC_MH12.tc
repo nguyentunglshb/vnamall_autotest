@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị khi paste thông tin &quot;Họ&quot;  khác biên 0-75 ký tự</description>
+   <name>TC_MH12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64a5843b-4d7c-4453-9d45-921b2aceceb3</testCaseGuid>
+</TestCaseEntity>

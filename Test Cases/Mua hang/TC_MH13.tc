@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị khi nhập thông tin &quot;Name&quot; là kí tự đặc biệt</description>
+   <name>TC_MH13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92ae85a4-b2b8-4e74-b70b-ec520d6e0e2e</testCaseGuid>
+</TestCaseEntity>

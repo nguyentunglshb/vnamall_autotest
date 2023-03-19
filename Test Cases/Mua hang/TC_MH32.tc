@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị thông tin&quot;Số điện thoại&quot; khi nhập kí tự trắng liên tiếp</description>
+   <name>TC_MH32</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72315f0f-e371-4fb7-9cdc-cb401fceff3a</testCaseGuid>
+</TestCaseEntity>

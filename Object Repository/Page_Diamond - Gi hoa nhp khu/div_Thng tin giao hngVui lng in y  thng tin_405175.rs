@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thng tin giao hngVui lng in y  thng tin_405175</name>
+   <tag></tag>
+   <elementGuidId>4207c182-c31b-404e-89dc-9eca3faec82a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.payment-list.row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-list row</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông tin giao hàngVui lòng điền đầy đủ thông tinHoặc đăng nhậpHọTênEmailSố điện thoạiĐịa chỉ cụ thểTỉnh/Thành phốThành phố Hà NộiThành phố Hồ Chí MinhThành phố Đà NẵngThành phố Cần ThơThành phố Hải PhòngTỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Bình DươngTỉnh Bạc LiêuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bắc NinhTỉnh Bến TreTỉnh Cao BằngTỉnh Cà MauTỉnh Gia LaiTỉnh Hoà BìnhTỉnh Hà GiangTỉnh Hà NamTỉnh Hà TĩnhTỉnh Hưng YênTỉnh Hải DươngTỉnh Hậu GiangTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Long AnTỉnh Lào CaiTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh ThuậnTỉnh Ninh BìnhTỉnh Phú YênTỉnh Phú ThọTỉnh Quảng NgãiTỉnh Quảng NamTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Quảng BìnhTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Thanh HóaTỉnh Thái NguyênTỉnh Thái BìnhTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Tây NinhTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiTỉnh Điện BiênTỉnh Đắk NôngTỉnh Đắk LắkTỉnh Đồng NaiTỉnh Đồng ThápQuận/HuyệnQuận Ba ĐìnhQuận Hoàn KiếmQuận Tây HồQuận Long BiênQuận Cầu GiấyQuận Đống ĐaQuận Hai Bà TrưngQuận Hoàng MaiQuận Thanh XuânQuận Nam Từ LiêmQuận Bắc Từ LiêmQuận Hà ĐôngThị xã Sơn TâyHuyện Sóc SơnHuyện Đông AnhHuyện Gia LâmHuyện Thanh TrìHuyện Mê LinhHuyện Ba VìHuyện Phúc ThọHuyện Đan PhượngHuyện Hoài ĐứcHuyện Quốc OaiHuyện Thạch ThấtHuyện Chương MỹHuyện Thanh OaiHuyện Thường TínHuyện Phú XuyênHuyện Ứng HòaHuyện Mỹ ĐứcPhường/XãThị trấn Sóc SơnXã Tiên DượcXã Việt LongXã Xuân GiangXã Mai ĐìnhXã Đức HoàXã Thanh XuânXã Đông XuânXã Kim LũXã Phú CườngXã Phú MinhXã Phù LỗXã Tân DânXã Hiền NinhXã Bắc SơnXã Minh TríXã Hồng KỳXã Nam SơnXã Trung GiãXã Tân HưngXã Minh PhúXã Phù LinhXã Bắc PhúXã Tân MinhXã Quang TiếnXã Xuân ThuGiỏ hàngTiến hành đến phương thức thanh toánSản phẩmDiamond - Giỏ hoa nhập khẩu 1x4.400.000 VNĐ Tổng giá sản phẩmPhí Vận Chuyển 4.400.000 VND ------Thành tiền4.400.000 VND (Đã bao gồm VAT nếu có) Giỏ hàngTiến hành đến phương thức thanh toán</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;payment row&quot;]/div[@class=&quot;payment-list row&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+   </webElementXpaths>
+</WebElementEntity>
